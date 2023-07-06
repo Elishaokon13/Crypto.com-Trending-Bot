@@ -1,0 +1,9 @@
+{
+    "proxy": "gate.smartproxy.com",
+    "thread": 1,
+    "url": "https://crypto.com/00000/0000000",
+    "coin": "",
+    "port": 7000,
+    "user":"",
+    "pasw":""
+}
